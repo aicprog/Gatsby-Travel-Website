@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/bali.jpg",
+        "alt": "Bali, Indonesia",
+        "name": "Bali, Indonesia", 
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/machu-pichu.jpg",
+        "alt": "Machu Pichu, Peru",
+        "name": "Machu Pichu, Peru", 
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/taj-majal.jpg",
+        "alt": "Taj Mahal, India",
+        "name": "Tian Tan Buddha", 
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/northern-lights.jpg",
+        "alt": "Northern Lights, Norway",
+        "name": "Northern Lights, Norway", 
+        "button": "View Destination"
+    }
+]
