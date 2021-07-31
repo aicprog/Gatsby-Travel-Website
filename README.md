@@ -1,5 +1,4 @@
-# Portfolio
-My web development porfolio
+# Travel Website
 
 1. Travel Website using Gatsby, a Front end Framework that combines React, GraphQl, and Webpack.
 - [Gatsby Travel Website](https://aicprog.github.io/Portfolio/)
