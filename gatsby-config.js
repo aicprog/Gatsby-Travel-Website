@@ -4,7 +4,7 @@ module.exports = {
     description: `Showcasing the best travel destinations and deals online`,
     author: `@gatsbyjs`,
   },
-  pathPrefix: "/Portfolio",
+  pathPrefix: "/Gatsby-Travel-Website",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
