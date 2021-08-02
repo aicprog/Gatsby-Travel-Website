@@ -4,7 +4,7 @@
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "homepage": "https://aicprog.github.io/travel_website",
+  "homepage": "https://aicprog.github.io/Gatsby-Travel-Website/",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "babel-plugin-styled-components": "^1.12.0",
@@ -64,3 +64,4 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
+ 
